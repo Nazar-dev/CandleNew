@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CandleNew.-1742618424.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\source\repos\CandleNew" t="IncludeFlat">
+      <e p="CandleNew" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CandleNew.csproj" t="IncludeRecursive" />
+        <e p="Classes" t="Include">
+          <e p="Logic" t="Include">
+            <e p="Dollar.cs" t="Include" />
+            <e p="Squere.cs" t="Include" />
+          </e>
+          <e p="Prices" t="Include">
+            <e p="Koef.cs" t="Include" />
+            <e p="PriceForMetal.cs" t="Include" />
+            <e p="PriceForTube.cs" t="Include" />
+            <e p="PriceForWood.cs" t="Include" />
+            <e p="PricesForStainless.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Forms" t="Include">
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Form1.resx" t="Include" />
+          <e p="MetalForm.cs" t="Include" />
+          <e p="MetalForm.Designer.cs" t="Include" />
+          <e p="MetalForm.resx" t="Include" />
+          <e p="StainlessForm.cs" t="Include" />
+          <e p="StainlessForm.Designer.cs" t="Include" />
+          <e p="StainlessForm.resx" t="Include" />
+          <e p="TubeForm.cs" t="Include" />
+          <e p="TubeForm.Designer.cs" t="Include" />
+          <e p="TubeForm.resx" t="Include" />
+          <e p="WoodForm.cs" t="Include" />
+          <e p="WoodForm.Designer.cs" t="Include" />
+          <e p="WoodForm.resx" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="logo.png" t="Include" />
+        </e>
+      </e>
+      <e p="CandleNew.sln" t="IncludeFlat" />
+      <e p="JsonTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="JsonParser" t="Include">
+          <e p="KantorData.cs" t="Include" />
+          <e p="originalFile.json" t="Include" />
+        </e>
+        <e p="JsonTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="templateJson1.json" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

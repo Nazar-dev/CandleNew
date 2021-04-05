@@ -1,0 +1,12 @@
+﻿{
+  "eur": {
+    "code": "EUR",
+    "alphaCode": "EUR",
+    "numericCode": "978",
+    "name": "Euro",
+    "rate": 0.82466010956308,
+    "date": "Sun, 31 Jan 2021 12:00:01 GMT",
+    "inverseRate": 1.2126207978337
+  },
+  
+}
